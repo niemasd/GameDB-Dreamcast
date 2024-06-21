@@ -1,0 +1,2 @@
+# GameDB-Dreamcast
+Sega Dreamcast
